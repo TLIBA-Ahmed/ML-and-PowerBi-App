@@ -43,5 +43,6 @@ Détermination de la meilleure plateforme de recrutement (Accuracy max: **83.7%*
 
 1. **Cloner le projet**
    ```bash
-   git clone [https://github.com/votre-utilisateur/nom-du-repo.git](https://github.com/votre-utilisateur/nom-du-repo.git)
+   git clone [https://github.com/TLIBA-Ahmed/ML-and-PowerBi-App.git](https://github.com/TLIBA-Ahmed/ML-and-PowerBi-App.git)
    cd nom-du-repo
+
